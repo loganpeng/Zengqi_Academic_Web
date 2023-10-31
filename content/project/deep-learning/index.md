@@ -1,6 +1,6 @@
 ---
 title: Deep Learning
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+summary: modify Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
 - Demo
 - Deep Learning

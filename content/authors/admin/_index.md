@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Vahn
+name: Zengqi PENG
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
@@ -14,35 +14,36 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PHD student in Robotics, HKUST(GZ)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The Hong Kong university of Science and Technology (Guangzhou Campus)
+  url: "https://www.hkust-gz.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Should the user's education and interests be displayed?
-display_education: false
+display_education: true
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Autonomous Driving
+- Reinforcement Learning
+- Robotics
+- Decision-Making and Motion Planning
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+    institution: The Hong Kong university of Science and Technology (Guangzhou)
+    year: 2022-Now
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: Huazhong University of Science and Technology
+    year: 2019-2022
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Huazhong University of Science and Technology
+    year: 2015-2019
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -77,8 +78,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. student in the Thrust of Robotics and Autonomous Systems, Systems Hub at the The Hong Kong university of Science and Technology (Guangzhou Campus). Now I am a Ph.D in Prof. MA’s Lab.
 
-![reviews](../../img/certifacates.jpg)
+<!-- ![reviews](../../img/certifacates.jpg) -->
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+My research interests include autonomous driving, motion planning, reinforcement learning, and control.
